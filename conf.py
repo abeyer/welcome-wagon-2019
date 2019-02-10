@@ -85,11 +85,6 @@ html_theme = 'guzzle_sphinx_theme'
 #
 html_theme_options = {
     'project_nav_name': 'PyCascades Welcome Wagon 2019',
-    'github_user': 'pycascades',
-    'github_repo': 'welcome-wagon-2019',
-    'github_type': 'star',
-    'github_banner': True,
-    'show_relbars': True,
 }
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
