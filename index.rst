@@ -48,8 +48,8 @@ Pro Tips
    between talks, networking, and breaks.
 
 -  Speaking of breaks--conferences are exhilarating, but can also be
-   exhausting. Give your brain a break! Grab a quiet spot in the Backstage
-   Lounge or take a quick walk. Play a board game on your lunch break. Come
+   exhausting. Give your brain a break! Grab a quiet spot in the quiet room
+   or take a quick walk. Play a board game on your lunch break. Come
    back invigorated.
 
 -  Eat! You can use the energy.
@@ -82,7 +82,7 @@ Our venue is `Kane Hall on the campus of the University of Washington <https://g
 
 The pre-registration event takes place at TBD.
 
-The main conference takes place in TBD.
+The main conference takes place at room 130. Refreshments will be available during breaks at the Walker Ames Room (Room 225).
 
 The sprints is TBD.
 
@@ -142,8 +142,6 @@ Don't despair, we're here to help with this Welcome Wagon!
 **What should I do during the talks?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Coming soon!
-
 -  The time between talks is for meeting your colleagues or taking a
    break. During the talks, listen and take in as much as you can.
 
@@ -167,8 +165,10 @@ Coming soon!
 -  Lightning talks will take place on both main conference days, right
    after lunch, from 1:50PM to 2:20 PM.
 
+-  All lightning talks will be recorded and live streamed. 
+
 -  A lightning talk is a five-minute talk where you quickly share a
-   concept or bit of info you find interesting.
+   concept or bit of info you find interesting. Slides are not required.
 
 -  Lightning talks are a great way to practice public speaking, get
    people excited about your personal projects, and test interest in
@@ -176,7 +176,20 @@ Coming soon!
 
 -  Do you have an idea, want to talk about a new tool you are learning,
    or review a process? Then, yes! Sign up for a lightning talk. There
-   will be a sign-up sheet at registration.
+   will be a sign-up at registration.
+
+-  PyCascades is aiming to have a a balanced mix of speakers therefore
+   we’ll be using two buckets where folks can self-identify their
+   speaking experience as ‘new’ or ‘experienced’ to submit. A
+   thoughtful title, a sentence blurb, contact info to follow up,
+   and notes on if you have slides or not should be included in
+   your submission.
+
+-  Lightning talks selection will happen in a relatively tight window
+   during the conference. It is important to be responsive, ideally
+   through the conference Slack #lightningtalks channel, to ensure
+   if you are selected we get your materials and order for the
+   speaking line up situated in a timely fashion.
 
 -  If you are interested in giving a lightning talk, be prepared! There
    is a great guide
