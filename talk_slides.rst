@@ -19,7 +19,7 @@ From Saturday, February 23
 
 **Lightning Talks**
 
-- Michael Gat: `You're a Failure! Now What?
+- Michael Gat: You're a Failure! Now What?
 - Veronica Hanus: `To comment or not to comment? <https://docs.google.com/presentation/d/1wRL3FaC82hcaeX95rtWQ-K5J_Lag7QY842tngJ9pWp0/edit?usp=drivesdk>`_
 - Roller Angel: `PyBUG Python BSD Users Groups <https://docs.google.com/document/d/1qTp7JUkYf0dqKtgA1FTM-gq0HSVqr8FtJZJfM9N-DDM/edit?usp=sharing>`_
 - Hanna Landrus: `Knitting - Will it Compile? <https://docs.google.com/presentation/d/1KE-XzWBbkZrbtsXTR95ErutFgMDaJwLLcTxVDIbYToU/edit?usp=sharing>`_
