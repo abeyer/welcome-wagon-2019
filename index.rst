@@ -24,11 +24,35 @@ manage the constant flow of information. Strategies and pro tips provide
 ways you can make the most of the conference. The FAQs strive to answer
 questions before you even have them.
 
+
+Important Information
+---------------------
+
+- *WiFi*: University of Washington, ID: event0476, Password: 26Gn=48Gn=53Ej
+- *Restrooms*: Located downstairs and upstairs.
+- *Refreshments*: Located upstairs in the Walter-Ames room.
+- *Quiet room*: Next door, room 120.
+  (NB: No food or drink allowed in the auditoriums)
+
+Code of Conduct
+---------------
+
+We have a `Code of Conduct <https://2019.pycascades.com/code-of-conduct/>`_. If you
+have any issues, please `reach out <https://2019.pycascades.com/code-of-conduct-reporting/>`_:
+
+- *In person*: any staff member can find a CoC member
+- *Hotline*: `+1 (206) 258-5599 <tel:+12062585599>`_.
+- *Email*: conduct (at) pycascades.com
+- *Staff member issues*: Contact conference chairs directly:
+
+  * Alan: `+1 (206) 637 6468 <tel:+12066376468>`_.
+  * Thea: `+1 (678) 588 8466 <tel:+16785888466>`_.
+
 Contribute
 ----------
 
 We welcome your contribution to the Welcome Wagon. Propose a PR on our `GitHub
-repo <https://github.com/pycascades/welcome-wagon-2019>`_. 
+repo <https://github.com/pycascades/welcome-wagon-2019>`_.
 
 Quick guide:
  - Fork our repo on `GitHub <https://github.com/pycascades/welcome-wagon-2019>`_.
@@ -48,8 +72,8 @@ Pro Tips
    between talks, networking, and breaks.
 
 -  Speaking of breaks--conferences are exhilarating, but can also be
-   exhausting. Give your brain a break! Grab a quiet spot in the Backstage
-   Lounge or take a quick walk. Play a board game on your lunch break. Come
+   exhausting. Give your brain a break! Grab a quiet spot in the quiet room
+   or take a quick walk. Play a board game on your lunch break. Come
    back invigorated.
 
 -  Eat! You can use the energy.
@@ -63,9 +87,11 @@ Other resources
 
 .. toctree::
 
+   self
    talk_slides
    dining_guide
    travel_guide
+   sprint
 
 
 FAQs
@@ -79,11 +105,9 @@ FAQs
 
 Our venue is `Kane Hall on the campus of the University of Washington <https://goo.gl/maps/ZVVnBcmfmN22>`_.
 
-The pre-registration event takes place at TBD.
+The main conference takes place at room 130. Refreshments will be available during breaks at the Walker Ames Room (Room 225).
 
-The main conference takes place in TBD.
-
-The sprints is TBD.
+The `sprint <sprint.html>`_ is at The Collective Seattle, `400 Dexter Avenue <https://goo.gl/maps/b1JY354TkvA2>`_.
 
 **How should I get around?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -104,10 +128,13 @@ Check out our `travel guide <travel_guide.html>`_.
 **What's the weather like?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The weather in February in Seattle is usually cold, but normally above 
+The weather in February in Seattle is usually cold, but normally above
 freezing. You should expect grey days with light rain. On February 23,
 the temperature in Seattle typically ranges from 41°F to 50°F (5°C to
 10°C) and is rarely below 32°F (0°C) or above 58°F (14°C).
+
+The weather forecast for the weekend is a high of 42°F (6°C) with a
+80% chance of rain.
 
 
 **What will I eat?**
@@ -141,8 +168,6 @@ Don't despair, we're here to help with this Welcome Wagon!
 **What should I do during the talks?**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Coming soon!
-
 -  The time between talks is for meeting your colleagues or taking a
    break. During the talks, listen and take in as much as you can.
 
@@ -166,8 +191,10 @@ Coming soon!
 -  Lightning talks will take place on both main conference days, right
    after lunch, from 1:50PM to 2:20 PM.
 
+-  All lightning talks will be recorded and live streamed. 
+
 -  A lightning talk is a five-minute talk where you quickly share a
-   concept or bit of info you find interesting.
+   concept or bit of info you find interesting. Slides are not required.
 
 -  Lightning talks are a great way to practice public speaking, get
    people excited about your personal projects, and test interest in
@@ -175,7 +202,20 @@ Coming soon!
 
 -  Do you have an idea, want to talk about a new tool you are learning,
    or review a process? Then, yes! Sign up for a lightning talk. There
-   will be a sign-up sheet at registration.
+   will be a sign-up at registration.
+
+-  PyCascades is aiming to have a a balanced mix of speakers therefore
+   we’ll be using two buckets where folks can self-identify their
+   speaking experience as ‘new’ or ‘experienced’ to submit. A
+   thoughtful title, a sentence blurb, contact info to follow up,
+   and notes on if you have slides or not should be included in
+   your submission.
+
+-  Lightning talks selection will happen in a relatively tight window
+   during the conference. It is important to be responsive, ideally
+   through the conference Slack #lightningtalks channel, to ensure
+   if you are selected we get your materials and order for the
+   speaking line up situated in a timely fashion.
 
 -  If you are interested in giving a lightning talk, be prepared! There
    is a great guide
@@ -222,7 +262,7 @@ are some tips:
    them and questions for them. Either reach out by email before the
    conference to set up a meeting onsite or find them at the conference.
 
--  Attend the sprints and volunteer to help on one of the projects being
+-  Attend the `sprint <sprint.html>`_ and volunteer to help on one of the projects being
    worked on.
 
 -  Check out the talk schedule in advance and make note of the talks you
@@ -237,7 +277,7 @@ are some tips:
 -  Reach out to some first-time attendees and tell them about your first
    conference.
 
--  Attend the sprints with your own project. Ask for help!
+-  Attend the `sprint <sprint.html>`_ with your own project. Ask for help!
 
 -  Check out the talk schedule in advance and make note of the talks you
    don't want to miss.
